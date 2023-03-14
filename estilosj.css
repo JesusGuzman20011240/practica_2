@@ -1,0 +1,88 @@
+.botones-flotantes {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.botones-flotantes button {
+    display: block;
+    width: 250px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: #8e0821;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.titulo{
+    color:white;
+    font-family: Lucida Sans,Arial;
+    font-size: 40px;
+}
+
+.mij{
+    
+    color:white;
+    font-family: Lucida Sans,Arial;
+    font-size: 40px;
+    }
+    
+    .nombre{
+        color: chartreuse;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    }
+    .video{
+        width: 10px;
+        height:10px;
+        top: 100px
+       
+    }
+    .direc{
+        color: aqua;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    
+    }
+    .datos{
+        color: bisque;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    }
+    .datosj{
+        color:beige;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    
+    
+    }
+    .datosa{
+        color: aquamarine;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    
+    }
+    .jesus{
+        color: azure;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    
+    }
+    .datosl{
+        color: chocolate;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    
+    }
+    .datosl2{
+        color: azure;
+        font-family: Lucida Sans,Arial;
+        font-size: 20px;
+    
+    }
+    
